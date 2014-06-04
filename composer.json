@@ -1,14 +1,14 @@
 {
-        "name": "meerkat/meerkat-sf-famfamfam",
+        "name": "meerkat/meerkat-sf-bootstrap",
         "type": "kohana-module",
         "description": "StaticFiles library for MeerkatCMF (on Kohana 3.3)",
-        "homepage": "http://www.famfamfam.com/lab/icons/silk/",
+        "homepage": "http://getbootstrap.com/",
 		"license": ["OFL-1.1", "MIT"],
         "keywords": ["kohana", "module", "meerkat", "static-files"],
         "authors": [
                 {
-                        "name": "Mark James",
-                        "homepage": "http://www.famfamfam.com/about/",
+                        "name": "Bootstrap Core Team",
+                        "homepage": "https://github.com/orgs/twbs/members",
                         "role": "Developer"
                 },		
                 {
